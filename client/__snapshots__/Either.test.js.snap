@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly Left 1`] = `
+<span>
+  Right
+</span>
+`;
+
+exports[`renders correctly Right 1`] = `
+<span>
+  Right
+</span>
+`;
