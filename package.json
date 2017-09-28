@@ -1,7 +1,7 @@
 {
-  "name": "enzyme-v3-and-react-16",
+  "name": "enzyme-v3-and-react-15",
   "version": "0.0.1",
-  "description": "Example of Jest, Enzyme v3 and React 16",
+  "description": "Example of Jest, Enzyme v3 and React 15",
   "scripts": {
     "test": "jest"
   },
@@ -11,12 +11,11 @@
     "babel-core": "6.26.0",
     "babel-preset-react-app": "3.0.3",
     "enzyme": "3.0.0",
-    "enzyme-adapter-react-16": "1.0.0",
+    "enzyme-adapter-react-15": "1.0.0",
     "enzyme-to-json": "3.0.1",
     "jest": "21.2.1",
-    "raf": "3.3.2",
-    "react": "16.0.0",
-    "react-dom": "16.0.0",
-    "react-test-renderer": "16.0.0"
+    "react": "15.6.2",
+    "react-dom": "15.6.2",
+    "react-test-renderer": "15.6.2"
   }
 }
